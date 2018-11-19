@@ -33,3 +33,4 @@ put them into a [YAML front matter](http://assemble.io/docs/YAML-front-matter.ht
 * Create pre-commit linting for markdown files
 * Travis CI to test pandoc convertion
 * `pandoc: Could not parse YAML header: mapping values are not allowed in this context "source" (line 4, column 6) -> When adding `\usepackage[margin=0.5in]{geometry}`to the YAML header
+* Report and report-lib template
