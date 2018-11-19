@@ -6,5 +6,5 @@ typeset:
 	  --to           latex          \
 	  --template     template.tex   \
 	  --out          assignment.pdf \
-	  --pdf-engine   xelatex        \
+	  --latex-engine   xelatex        \
 	  assignment.md
