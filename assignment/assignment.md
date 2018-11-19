@@ -1,7 +1,7 @@
 ---
-title: Some Assignment
-authors: Alice Foo, Bob Bar & Charlie Baz
-left-header: Some Course
+title: Assignment
+authors: Daniel Vera Gilliard
+left-header: Course
 right-header: \today
 ---
 
