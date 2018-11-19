@@ -1,3 +1,8 @@
+## General
+
+*.pdf
+
+
 ### OSX ###
 .DS_Store
 .AppleDouble
