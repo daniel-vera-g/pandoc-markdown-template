@@ -34,3 +34,13 @@ put them into a [YAML front matter](http://assemble.io/docs/YAML-front-matter.ht
 * Travis CI to test pandoc convertion
 * `pandoc: Could not parse YAML header: mapping values are not allowed in this context "source" (line 4, column 6) -> When adding `\usepackage[margin=0.5in]{geometry}`to the YAML header
 * Report and report-lib template
+* \pagebreak after table of contents
+* Documentclass article in template for report
+* % Fix \tightlist error
+\def\tightlist{} -> In template
+* \usepackage{graphicx} -> In template for images
+* \begin{figure}[H]
+  \includegraphics[width=\linewidth]{./img/Vektoren_2.jpg}
+\end{figure} -> for right aligned immages
+* Script create pdf -> pandoc -o vektorielle-geometrie-new.pdf vektorielle-geometrie-new.md --template=template.tex --latex-engine=xelatex
+
