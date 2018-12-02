@@ -33,6 +33,17 @@ put them into a [YAML front matter](http://assemble.io/docs/YAML-front-matter.ht
 	* Latex linting ...
 * Customize Templates
 * report and report-lib
+* Fix to use svg:
+Cannot determine size of graphic in ./img/brechung.svg (no Bound
+ingBox). + gif
+* numbering also for biggest header
+* remove numbering from images
+* pandoc  --template=template.tex --latex-engine=xelatex  -> Alias!
+
+# autokey
+
+latex image
+template & latex-engine as flags
 
 
 ### TO-CHECK
