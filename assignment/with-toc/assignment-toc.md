@@ -9,6 +9,7 @@ right-header: \today
 \newpage
 
 # Results
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tempus metus nec arcu elementum
 venenatis. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
