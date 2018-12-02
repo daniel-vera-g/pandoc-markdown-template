@@ -24,15 +24,13 @@ put them into a [YAML front matter](http://assemble.io/docs/YAML-front-matter.ht
 
 ## TODO
 
-* Fix make scripts
+
 * Customize Templates
 * Create pre-commit linting for markdown files || Travis CI to test pandoc convertion 
 	* Check for grammar errrors
 	* convert to pdf
 	* Markdown linting
 	* Latex linting ...
-* Customize Templates
-* report and report-lib
 * Fix to use svg:
 Cannot determine size of graphic in ./img/brechung.svg (no Bound
 ingBox). + gif

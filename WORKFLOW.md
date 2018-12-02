@@ -1,5 +1,9 @@
 # Digital notetaking workflow
 
+## When to use
+
+Use for short documentation of topics, lecture notes or exam preparation notes. For bigger reports either use one of the report templates or preferebly usea text editing software like word of libre-office.
+
 ## Features
 
 * Use templates
