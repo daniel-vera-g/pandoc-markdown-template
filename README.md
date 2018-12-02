@@ -1,4 +1,5 @@
 # Pandoc Markdown template
+
 This repository is a small collection of personal Markdown templates for Pandoc.
 
 Each directory contains a working template and example PDF output.
@@ -24,17 +25,19 @@ put them into a [YAML front matter](http://assemble.io/docs/YAML-front-matter.ht
 ## TODO
 
 * Fix make scripts
-* Add templates
 * Customize Templates
-* Create pre-commit linting for markdown files
-* Travis CI to test pandoc convertion
-* Add templates
+* Create pre-commit linting for markdown files || Travis CI to test pandoc convertion 
+	* Check for grammar errrors
+	* convert to pdf
+	* Markdown linting
+	* Latex linting ...
 * Customize Templates
-* Create pre-commit linting for markdown files
-* Travis CI to test pandoc convertion
+* report and report-lib
+
+
+### TO-CHECK
+
 * `pandoc: Could not parse YAML header: mapping values are not allowed in this context "source" (line 4, column 6) -> When adding `\usepackage[margin=0.5in]{geometry}`to the YAML header
-* Report and report-lib template
-* \pagebreak after table of contents
 * Documentclass article in template for report
 * % Fix \tightlist error
 \def\tightlist{} -> In template
