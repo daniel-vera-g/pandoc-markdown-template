@@ -4,17 +4,21 @@
 % -----------------
 % START OF PREAMBLE
 % -----------------
-\documentclass[12pt,a4paper]{scrartcl}
-
+\documentclass[12pt,a4paper]{article}
 
 % Commands
 \newcommand{\HRule}{\rule{\linewidth}{0.5mm}}
 
-% Fix \tighlist error when using markdown
+% Fix \tightlist error
 % Source: https://tex.stackexchange.com/questions/257418/error-tightlist-converting-md-file-into-pdf-using-pandoc
 \def\tightlist{}
 
 % Packages
+
+% Helvetica font
+\usepackage[scaled]{helvet}
+\usepackage[T1]{fontenc}
+
 \usepackage{fontspec}
 \usepackage{eurosym}
 \usepackage{amssymb}
@@ -32,6 +36,7 @@
             urlcolor=blue,
             linkcolor=black]{hyperref}
 \usepackage{float}
+
 
 % Required fix for fancyhdr
 \DeclareOldFontCommand{\rm}{\normalfont\rmfamily}{\mathrm}
@@ -71,6 +76,7 @@ $highlighting-macros$
 % -----------------
 %  END OF PREAMBLE
 % -----------------
+\renewcommand\familydefault{\sfdefault}
 \begin{document}
 
 \begin{center}
