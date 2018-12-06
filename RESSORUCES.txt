@@ -1,0 +1,37 @@
+https://danyspin97.org/blog/makefiles-best-practices/ | danyspin97's site - Makefiles, Best Practices
+https://www.google.com/search?client=ubuntu&channel=fs&q=typesetting&ie=utf-8&oe=utf-8 | typesetting - Google-Suche
+https://www.google.com/search?client=ubuntu&channel=fs&q=what+is+make+c&ie=utf-8&oe=utf-8 | what is make c - Google-Suche
+https://www.google.com/search?client=ubuntu&channel=fs&q=how+does+make+work+c&ie=utf-8&oe=utf-8 | how does make work c - Google-Suche
+https://opensource.com/article/18/8/what-how-makefile | What is a Makefile and how does it work? | Opensource.com
+https://medium.com/@jolson88/its-time-for-makefiles-to-make-a-comeback-36cbc358bb0a | It’s time for makefiles to make a comeback – Jason Olson – Medium
+https://news.ycombinator.com/item?id=5276339 | &#62; There are many, many way better alternatives to make. Which one is better ... | Hacker News
+https://hackernoon.com/simple-build-tools-npm-scripts-vs-makefile-vs-runjs-31e578278162 | Simple build tools: npm scripts vs Makefile vs runjs
+https://www.reddit.com/r/programming/comments/5hwj83/i_am_tired_of_makefiles/ | I am tired of Makefiles : programming
+https://stackoverflow.com/questions/1274057/how-to-make-git-forget-about-a-file-that-was-tracked-but-is-now-in-gitignore | How to make Git "forget" about a file that was tracked but is now in .gitignore? - Stack Overflow
+https://github.com/daniel-vera-g/pandoc-markdown-template | daniel-vera-g/pandoc-markdown-template: Markdown templates for Pandoc
+https://latex-kurs.de/fragen/schriftarten/Helvetica.html | Helvetica in Latex
+https://www.google.com/search?client=ubuntu&channel=fs&q=What+are+makefiles&ie=utf-8&oe=utf-8 | What are makefiles - Google-Suche
+https://kb.mit.edu/confluence/pages/viewpage.action?pageId=3907057 | How can I change the margins in LaTeX? - IS&T Contributions - Hermes
+http://assemble.io/docs/YAML-front-matter.html | YAML front matter | Assemble
+https://github.com/daniel-vera-g/pandoc-markdown-template | daniel-vera-g/pandoc-markdown-template: Markdown templates for Pandoc
+https://tex.stackexchange.com/questions/257418/error-tightlist-converting-md-file-into-pdf-using-pandoc | (error) \tightlist (converting .md file into .pdf using pandoc) - TeX - LaTeX Stack Exchange
+https://de.wikibooks.org/wiki/LaTeX-Kompendium:_Schnellkurs:_Erste_Schritte | LaTeX-Kompendium: Schnellkurs: Erste Schritte – Wikibooks, Sammlung freier Lehr-, Sach- und Fachbücher
+https://tex.stackexchange.com/questions/36988/regarding-the-book-report-and-article-document-classes-what-are-the-mai | koma script - Regarding the `book`, `report`, and `article` document classes: what are the main differences? - TeX - LaTeX Stack Exchange
+https://de.overleaf.com/learn/latex/Posters | Posters - Overleaf, Online-LaTeX-Editor
+https://de.overleaf.com/learn/latex/Powerdot | Powerdot - Overleaf, Online-LaTeX-Editor
+https://de.overleaf.com/learn/latex/Beamer | Beamer - Overleaf, Online-LaTeX-Editor
+https://de.overleaf.com/learn/latex/Footnotes | Footnotes - Overleaf, Online-LaTeX-Editor
+https://de.overleaf.com/learn/latex/Page_numbering | Page numbering - Overleaf, Online-LaTeX-Editor
+https://de.overleaf.com/learn/latex/Headers_and_footers | Headers and footers - Overleaf, Online-LaTeX-Editor
+https://www.google.com/search?client=ubuntu&channel=fs&q=latex+file+structure&ie=utf-8&oe=utf-8 | latex file structure - Google-Suche
+https://www.google.com/search?client=ubuntu&channel=fs&q=latex+overvie&ie=utf-8&oe=utf-8 | latex overvie - Google-Suche
+https://www.google.com/search?client=ubuntu&channel=fs&q=latex+docuement+structure+&ie=utf-8&oe=utf-8 | latex docuement structure - Google-Suche
+https://www.google.com/search?client=ubuntu&channel=fs&q=pandoc+citerproc&ie=utf-8&oe=utf-8 | pandoc citerproc - Google-Suche
+https://de.overleaf.com/learn/latex/Sections_and_chapters | Sections and chapters - Overleaf, Online-LaTeX-Editor
+https://de.overleaf.com/learn/latex/Choosing_a_LaTeX_Compiler | Choosing a LaTeX Compiler - Overleaf, Online-LaTeX-Editor
+https://de.overleaf.com/learn/latex/Inserting_Images | Inserting Images - Overleaf, Online-LaTeX-Editor
+https://de.overleaf.com/learn/latex/Positioning_images_and_tables | Positioning images and tables - Overleaf, Online-LaTeX-Editor
+https://de.overleaf.com/learn/latex/Lists_of_tables_and_figures | Lists of tables and figures - Overleaf, Online-LaTeX-Editor
+https://de.overleaf.com/learn/latex/Picture_environment | Picture environment - Overleaf, Online-LaTeX-Editor
+https://de.overleaf.com/learn/latex/German | German - Overleaf, Online-LaTeX-Editor
+
